@@ -15,3 +15,6 @@ This project makes available the following:
 
 ### Loadbalancer URL
 The DNS name of the loadbalancer is udagr-WebAp-ULKNRV9QPTJF-1455523920.us-west-2.elb.amazonaws.com
+
+## CAVEAT ##
+**The Loadbalacer URL can no longer be accessed because the Loadbalancer and its dependent resources has been deleted**
